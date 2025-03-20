@@ -1,7 +1,5 @@
 # Hi there, I'm Matis Taam! 👋
 
-![Matis's Banner](https://source.unsplash.com/1600x400/?cybersecurity,technology)
-
 ## 🚀 About Me
 
 I'm a **2nd-year student at EPITECH Lyon**, passionate about **cybersecurity** and **software development**. I love building robust and efficient applications, automating workflows, and exploring new technologies.  
