@@ -6,7 +6,7 @@ I'm a **2nd-year student at EPITECH Lyon**, passionate about **cybersecurity** a
 
 💡 **Currently working on:** Arcade, a graphical gaming project in C++  
 🎯 **Interests:** Cybersecurity, System Programming, Automation  
-📚 **Learning:** Advanced C, Assembly (x86_64), C++  
+📚 **Learning:** Advanced C, C++, Assembly (x86_64) 
 
 ---
 
