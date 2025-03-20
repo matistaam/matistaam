@@ -1,43 +1,35 @@
-# Hi there, I'm Matis Taam! 👋
+## Hi there, I'm Matis Taam! 👋
 
-![Matis's Banner](https://source.unsplash.com/1600x400/?technology,coding)
+Welcome to my GitHub! I'm a passionate **Software Engineer & Cybersecurity Enthusiast** currently in my second year at **EPITECH Lyon**. I love building scalable and efficient software solutions while exploring the ever-evolving world of cybersecurity. 
 
-## 🚀 About Me
+### 🚀 About Me
+- 🎓 **Student at EPITECH Lyon** – Learning by doing!
+- 💻 **Programming Enthusiast** – I work with **C, Python, Bash, JavaScript, SQL**, and more.
+- 🔐 **Cybersecurity Passionate** – Interested in ethical hacking & secure software development.
+- 🏗 **Project-Oriented** – I enjoy working on **low-level programming, networking, and automation**.
+- 📫 **How to reach me?** [LinkedIn](https://www.linkedin.com/in/matis-taam/) | [GitHub](https://github.com/matistaam/)  
 
-I'm a **2nd-year student at EPITECH Lyon**, passionate about **cybersecurity** and **software development**. I love building robust and efficient applications, automating workflows, and exploring new technologies.  
+### 🛠️ Tech Stack
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Power Platform](https://img.shields.io/badge/Microsoft%20Power%20Platform-6264A7?style=for-the-badge&logo=powerapps&logoColor=white)
 
-💡 **Currently working on:** MyFTP, a personal FTP server in C  
-🎯 **Interests:** Cybersecurity, System Programming, Automation  
-📚 **Learning:** Advanced C, Assembly (x86_64) 
+### 📌 Featured Projects
+🚀 **[MyFTP](https://github.com/matistaam/B-NWP-400-LYN-4-1-myftp-matis.taam)** – A custom FTP server implementation in C.
 
----
+🔧 **[Minilibc](https://github.com/matistaam/)** – A low-level implementation of a C standard library.
 
-## 🛠️ Tech Stack
+⚡ **[GKrellM Clone](https://github.com/matistaam/)** – A system monitoring tool built with `nCurses` and `SFML`.
 
-### Programming Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![PowerFX](https://img.shields.io/badge/PowerFX-%230078D7.svg?style=flat&logo=microsoft&logoColor=white)
-
-### Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
-![Power Platform](https://img.shields.io/badge/Power%20Platform-%235F3CBA.svg?style=flat&logo=microsoft-powerapps&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Matis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matistaam&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matistaam&layout=compact&theme=tokyonight)
+### 📈 GitHub Stats
+![Matis Taam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matistaam&show_icons=true&theme=radical)
 
 ---
+⭐️ **Fun Fact:** *"Any sufficiently advanced technology is indistinguishable from magic."* – Arthur C. Clarke
 
-## 📬 Contact Me
-
-📧 **Email:** [YourEmail@example.com](mailto:YourEmail@example.com)  
-💼 **LinkedIn:** [linkedin.com/in/matistaam](https://www.linkedin.com/in/matistaam/)  
-🌐 **Portfolio:** [matistaam.github.io](https://matistaam.github.io/)  
+🚀 Let's build & secure the future together!
