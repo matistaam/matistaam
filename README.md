@@ -4,7 +4,7 @@
 
 I'm a **2nd-year student at EPITECH Lyon**, passionate about **cybersecurity** and **software development**. I love building robust and efficient applications, automating workflows, and exploring new technologies.  
 
-💡 **Currently working on:** Arcade, a graphical gaming project in C++  
+💡 **Currently working on:** Jetpack, a network and graphical gaming project in C/C++
 🎯 **Interests:** Cybersecurity, System Programming, Automation  
 📚 **Learning:** Advanced C, C++, Python, Assembly (x86_64) 
 
