@@ -2,9 +2,8 @@
 
 ## 🚀 About Me
 
-I'm a **2nd-year student at EPITECH Lyon**, passionate about **cybersecurity** and **software development**. I love building robust and efficient applications, automating workflows, and exploring new technologies.
+I'm a **3rd-year student at EPITECH Lyon**, passionate about **cybersecurity** and **software development**. I love building robust and efficient applications, automating workflows, and exploring new technologies.
 
-💡 **Currently working on:** Zappy, a multiplayer game where AI clients compete to survive and evolve in a simulated world.  
 🎯 **Interests:** Cybersecurity, System Programming, Automation  
 📚 **Learning:** Advanced C, C++, Python
 
