@@ -4,9 +4,6 @@
 
 I'm a **3rd-year student at EPITECH Lyon**, passionate about **cybersecurity** and **software development**. I love building robust and efficient applications, automating workflows, and exploring new technologies.
 
-🎯 **Interests:** Cybersecurity, System Programming, Automation  
-📚 **Learning:** Advanced C, C++, Python, **React/React Native, Next.js, FastAPI (Python)**  
-
 ---
 
 ## 🛠️ Tech Stack
@@ -18,6 +15,7 @@ I'm a **3rd-year student at EPITECH Lyon**, passionate about **cybersecurity** a
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 ![PowerFX](https://img.shields.io/badge/PowerFX-%230078D7.svg?style=flat&logo=microsoft&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
@@ -44,4 +42,4 @@ I'm a **3rd-year student at EPITECH Lyon**, passionate about **cybersecurity** a
 ## 📬 Contact Me
 
 📧 **Email:** [matis.taaam@gmail.com](mailto:matis.taaam@gmail.com)  
-💼 **LinkedIn:** [Matis Taam on LinkedIn](https://www.linkedin.com/in/matistaam/)  
+💼 **LinkedIn:** [Matis Taam on LinkedIn](https://www.linkedin.com/in/matistaam/)
