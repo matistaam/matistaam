@@ -42,4 +42,4 @@ I'm a **3rd-year student at EPITECH Lyon**, passionate about **cybersecurity** a
 ## 📬 Contact Me
 
 📧 **Email:** [matis.taaam@gmail.com](mailto:matis.taaam@gmail.com)  
-💼 **LinkedIn:** [Matis Taam on LinkedIn](https://www.linkedin.com/in/matistaam/)
+💼 **LinkedIn:** [Matis Taam on LinkedIn](https://www.linkedin.com/in/matis-taam/)
