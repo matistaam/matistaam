@@ -5,7 +5,7 @@
 I'm a **3rd-year student at EPITECH Lyon**, passionate about **cybersecurity** and **software development**. I love building robust and efficient applications, automating workflows, and exploring new technologies.
 
 🎯 **Interests:** Cybersecurity, System Programming, Automation  
-📚 **Learning:** Advanced C, C++, Python
+📚 **Learning:** Advanced C, C++, Python, **React/React Native, Next.js, FastAPI (Python)**  
 
 ---
 
@@ -17,6 +17,13 @@ I'm a **3rd-year student at EPITECH Lyon**, passionate about **cybersecurity** a
 ![Assembly](https://img.shields.io/badge/Assembly-%23A8B9CC.svg?style=flat&logo=assembly&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 ![PowerFX](https://img.shields.io/badge/PowerFX-%230078D7.svg?style=flat&logo=microsoft&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat&logo=fastapi&logoColor=white)
 
 ### Tools & Platforms
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
@@ -37,4 +44,4 @@ I'm a **3rd-year student at EPITECH Lyon**, passionate about **cybersecurity** a
 ## 📬 Contact Me
 
 📧 **Email:** [matis.taaam@gmail.com](mailto:matis.taaam@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/matistaam](https://www.linkedin.com/in/matistaam/)  
+💼 **LinkedIn:** [Matis Taam on LinkedIn](https://www.linkedin.com/in/matistaam/)  
